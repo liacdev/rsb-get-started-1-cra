@@ -22,7 +22,7 @@ function App() {
         <p>GoLive doesn't work the same way as with HTML.</p>
         <a
           className="App-link"
-          href="https://"
+          href="https://github.com/SouthpawCurveConcepts/rsb-get-started-1-cra"
           target="_blank"
           rel="noopener noreferrer"
         >
